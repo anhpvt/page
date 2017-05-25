@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Home"
+title:  "Information: Engineering Career"
 date:   2017-04-30 23:02:07 +0700
 categories: home
 ---
